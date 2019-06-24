@@ -6,8 +6,8 @@ package com.atguigu.jianfa0105;
  * @author caoshuitao
  * @create 2019-06-24
  */
-public class Dugujiujian {
+public class Huashanjiafa {
     public static void main(String[] args) {
-        System.out.println("hello  dugujiujian!!!");
+        System.out.println("huashan");
     }
 }
